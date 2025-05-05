@@ -1,2 +1,1 @@
-# Decision-tree-model-for-alteration-minerals
-Classification model for alteration minerals with the combination of hyperspectral remote sensing and machine learning
+INTEGRATION OF HYPERSPECTRAL LIBRARY AND AVIRIS-NG WITH MACHINE LEARNING FOR ENHANCED DETECTION AND MAPPING OF ALTERATION MINERALS  
